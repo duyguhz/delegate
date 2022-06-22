@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7B6315CB-08BF-4EE3-8E1F-DA3D89023F36}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="delegatehw/Program.cs">
+    <Files>
+      <File FileName="delegatehw/Program.cs" Line="56" Column="14" />
+      <File FileName="delegatehw/Exam.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="220622" expanded="True">
+            <Node name="delegatehw" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.delegatehw PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

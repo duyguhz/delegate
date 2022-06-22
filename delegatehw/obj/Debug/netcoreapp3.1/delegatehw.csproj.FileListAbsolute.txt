@@ -1,0 +1,13 @@
+/Users/duyguhasanzade/Projects/220622/delegatehw/bin/Debug/netcoreapp3.1/delegatehw.deps.json
+/Users/duyguhasanzade/Projects/220622/delegatehw/bin/Debug/netcoreapp3.1/delegatehw.runtimeconfig.json
+/Users/duyguhasanzade/Projects/220622/delegatehw/bin/Debug/netcoreapp3.1/delegatehw.runtimeconfig.dev.json
+/Users/duyguhasanzade/Projects/220622/delegatehw/bin/Debug/netcoreapp3.1/delegatehw.dll
+/Users/duyguhasanzade/Projects/220622/delegatehw/bin/Debug/netcoreapp3.1/delegatehw.pdb
+/Users/duyguhasanzade/Projects/220622/delegatehw/obj/Debug/netcoreapp3.1/delegatehw.csproj.AssemblyReference.cache
+/Users/duyguhasanzade/Projects/220622/delegatehw/obj/Debug/netcoreapp3.1/delegatehw.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duyguhasanzade/Projects/220622/delegatehw/obj/Debug/netcoreapp3.1/delegatehw.AssemblyInfoInputs.cache
+/Users/duyguhasanzade/Projects/220622/delegatehw/obj/Debug/netcoreapp3.1/delegatehw.AssemblyInfo.cs
+/Users/duyguhasanzade/Projects/220622/delegatehw/obj/Debug/netcoreapp3.1/delegatehw.csproj.CoreCompileInputs.cache
+/Users/duyguhasanzade/Projects/220622/delegatehw/obj/Debug/netcoreapp3.1/delegatehw.dll
+/Users/duyguhasanzade/Projects/220622/delegatehw/obj/Debug/netcoreapp3.1/delegatehw.pdb
+/Users/duyguhasanzade/Projects/220622/delegatehw/obj/Debug/netcoreapp3.1/delegatehw.genruntimeconfig.cache
